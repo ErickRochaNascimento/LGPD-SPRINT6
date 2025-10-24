@@ -32,16 +32,19 @@ function Post(form) {
     return false;
 }
 
-/*function Enviar() {
 
-    var nome = document.getElementById("nome");
 
-    if (nome.value != "") {
- alert(`Obrigado sr(a) ${data.nome} ${data.sobrenome}  os seus dados foram encaminhados com sucesso`);
-       
+function bloquear(check){
+    const btnLgpd = document.getElementById("btnLgpd")
+    const texto = document.getElementById("texto")
+    if(check.checked){
+        btnLgpd.disabled = false;
+        btnLgpd.classList.remove("desabilitado")
+        texto.classList.remove("textodesabilitado")
+    }else{
+        btnLgpd.disabled = true;
+        btnLgpd.classList.toggle("desabilitado")
+        texto.classList.toggle("textodesabilitado")
     }
-
-
-
-}*/
+}
 
