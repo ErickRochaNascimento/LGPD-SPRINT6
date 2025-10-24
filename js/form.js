@@ -36,7 +36,7 @@ function Post(form) {
 
 function bloquear(check){
     const btnLgpd = document.getElementById("btnLgpd")
-    const texto = document.getElementById("texto")
+    const texto = document.getElementById("texto")//Texto de alerta de termos e condicoes
     if(check.checked){
         btnLgpd.disabled = false;
         btnLgpd.classList.remove("desabilitado")

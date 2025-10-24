@@ -83,6 +83,7 @@ button {
     cursor: auto;
 }
 
+/*Texto de alerta de termos e condicoes */
 .textodesabilitado, .textodesabilitado:hover{
     border: none;
     cursor: none;
