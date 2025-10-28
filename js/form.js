@@ -40,11 +40,11 @@ function bloquear(check){
     if(check.checked){
         btnLgpd.disabled = false;
         btnLgpd.classList.remove("desabilitado")
-        texto.classList.remove("textodesabilitado")
+        texto.classList.toggle("textodesabilitado")
     }else{
         btnLgpd.disabled = true;
         btnLgpd.classList.toggle("desabilitado")
-        texto.classList.toggle("textodesabilitado")
+        texto.classList.remove("textodesabilitado")
     }
 }
 
