@@ -112,10 +112,11 @@ conceitos fundamentais de Front-End:
     classe.
 -   Comparação de objetos e atualização de conteúdo dinâmico via DOM.
 
-## 👤 Autor
 
-**Erick Rocha Nascimento**
-*   [LinkedIn](https://www.linkedin.com/in/erickrochanascimento)
-*   [GitHub](https://github.com/ErickRochaNascimento)
+## 🧑‍💻 Autor
+
+**Erick Rocha Nascimento**  
+🔗 [LinkedIn](https://www.linkedin.com/in/erickrochanascimento) | [GitHub](https://github.com/ErickRochaNascimento)
+
 
 
