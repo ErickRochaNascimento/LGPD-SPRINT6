@@ -94,7 +94,7 @@ como **carrossel automático de imagens**, **comparador de veículos** e
 Você pode visualizar o projeto diretamente no GitHub Pages:
 
 👉
-**[https://erickrochanascimento.github.io/LGPD-SPRINT6/](https://www.google.com/search?q=https://erickrochanascimento.github.io/LGPD-SPRINT6/index.html)**
+**[https://erickrochanascimento.github.io/LGPD-SPRINT6/](https://erickrochanascimento.github.io/LGPD-SPRINT6/index.html)**
 
 ## 💡 Principais Aprendizados (Foco no Sprint LGPD)
 
