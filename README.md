@@ -1,6 +1,6 @@
 ## 🖥️ Visão Geral do Projeto
 
-Este projeto foi desenvolvido como parte do **"Ford `<Enter>`{=html}"**
+Este projeto foi desenvolvido como parte do **"Ford `<Enter>`"**
 (curso de Programação Front-end da **Ford** em parceria com o **SENAI
 CIMATEC**). O site apresenta um **portal completo da Ford**, com foco em
 navegação dinâmica, interatividade, comparação de veículos e,
@@ -114,16 +114,8 @@ conceitos fundamentais de Front-End:
 
 ## 👤 Autor
 
--   **Erick Rocha Luciano Nascimento**
--   **<https://www.linkedin.com/in/erickrochanascimento/>**
+**Erick Rocha Nascimento**
+*   [LinkedIn](https://www.linkedin.com/in/erickrochanascimento)
+*   [GitHub](https://github.com/ErickRochaNascimento)
 
-## ▶️ Como Rodar Localmente
 
-Para testar o projeto em sua máquina:
-
-1.  **Clone o repositório:**
-    ```bash
-    git clone https://github.com/ErickRochaNascimento/LGPD-SPRINT6.git
-    cd LGPD-SPRINT6
-    ```
-2.  **Abra o arquivo `index.html`** no seu navegador.
