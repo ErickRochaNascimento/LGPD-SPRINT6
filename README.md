@@ -116,3 +116,14 @@ conceitos fundamentais de Front-End:
 
 -   **Erick Rocha Luciano Nascimento**
 -   **<https://www.linkedin.com/in/erickrochanascimento/>**
+
+## ▶️ Como Rodar Localmente
+
+Para testar o projeto em sua máquina:
+
+1.  **Clone o repositório:**
+    ```bash
+    git clone https://github.com/ErickRochaNascimento/LGPD-SPRINT6.git
+    cd LGPD-SPRINT6
+    ```
+2.  **Abra o arquivo `index.html`** no seu navegador.
